@@ -1,0 +1,36 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined. If you add columns to the
+# model remove the {} from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one: 
+  id: 1
+  name: first event
+  description: some long description
+  start_time: 2019-11-14T15:24:48Z
+  end_time: 2019-11-16T15:24:48Z
+  location: north of south nowhere
+
+
+two: 
+  id: 2
+  name: second event
+  description: some long description
+  start_time: 2019-11-14T15:24:48Z
+  end_time: 2019-11-16T15:24:48Z
+  location: north of south nowhere
+  status: published
+
+
+three: 
+  id: 3
+  name: second event
+  description: some long description
+  start_time: 2019-11-14T15:24:48Z
+  end_time: 2019-11-16T15:24:48Z
+  location: north of south nowhere
+  deleted_at: 2018-11-14T16:24:48Z
+
+
+
