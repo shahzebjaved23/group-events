@@ -1,24 +1,13 @@
-# README
+# Readme FIle
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Contains -
+- GroupEvent Model
+- Migration
+- Controller for json request/response
+- tests for Model
+- tests for Controller
 
-Things you may want to cover:
 
-* Ruby version
+To run Tests, do 
+rake test
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
